@@ -8,15 +8,15 @@
     },
     {
       "id": 2,
-      "text": "Mechanic visit",
-      "day": "May 6th at 11:30pm",
-      "reminder": true
+      "text": "Walk my dog",
+      "day": "May 6th at 4:30pm",
+      "reminder": false
     },
     {
       "id": 3,
-      "text": "Grocery Shopping",
-      "day": "May 10th at 11:00am",
-      "reminder": false
+      "text": "Visit Mum",
+      "day": "May 8th at 2:30am",
+      "reminder": true
     }
   ]
 }
